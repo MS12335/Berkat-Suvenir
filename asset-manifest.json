@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8133e40.css",
-    "main.js": "/static/js/main.ebbcc1f9.js",
-    "static/js/787.6d2ee1fe.chunk.js": "/static/js/787.6d2ee1fe.chunk.js",
-    "index.html": "/index.html",
-    "main.c8133e40.css.map": "/static/css/main.c8133e40.css.map",
-    "main.ebbcc1f9.js.map": "/static/js/main.ebbcc1f9.js.map",
-    "787.6d2ee1fe.chunk.js.map": "/static/js/787.6d2ee1fe.chunk.js.map"
+    "main.css": "/berkat-suvenir/static/css/main.c8133e40.css",
+    "main.js": "/berkat-suvenir/static/js/main.dcb90b01.js",
+    "static/js/787.6d2ee1fe.chunk.js": "/berkat-suvenir/static/js/787.6d2ee1fe.chunk.js",
+    "index.html": "/berkat-suvenir/index.html",
+    "main.c8133e40.css.map": "/berkat-suvenir/static/css/main.c8133e40.css.map",
+    "main.dcb90b01.js.map": "/berkat-suvenir/static/js/main.dcb90b01.js.map",
+    "787.6d2ee1fe.chunk.js.map": "/berkat-suvenir/static/js/787.6d2ee1fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8133e40.css",
-    "static/js/main.ebbcc1f9.js"
+    "static/js/main.dcb90b01.js"
   ]
 }
