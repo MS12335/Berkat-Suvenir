@@ -320,6 +320,7 @@ body {
 .products-explore .all-products.less-than-four {
     display: flex;
     justify-content: flex-start;
+    flex-wrap: wrap;
 }
 
 .products-explore .all-products.less-than-four .container.less-than-four {
