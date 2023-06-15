@@ -817,6 +817,10 @@ footer .container .description .socials a p,
         grid-gap: 1rem;
     }
 
+    .products-explore .all-products.less-than-four .container.less-than-four {
+        width: 20rem;
+    }
+
     .products-explore .all-products .container {
         height: 35rem;
     }
