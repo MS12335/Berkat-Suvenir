@@ -339,13 +339,13 @@ body {
 .products-explore .all-products .container .product-image {
     display: flex;
     width: 100%;
-    height: 65%;
+    height: 50%;
     align-items: center;
     justify-content: center;
 }
 
-.products-explore .all-products .container img {
-    height: 15rem;
+.products-explore .all-products .container .product-image img {
+    height: 60%;
 }
 
 .products-explore .all-products .container .product-description {
@@ -818,18 +818,10 @@ footer .container .description .socials a p,
     }
 
     .products-explore .all-products.less-than-four .container.less-than-four {
-        width: 20rem;
+        flex: 1 1 15rem;
     }
 
     .products-explore .all-products .container {
-        height: 35rem;
-    }
-
-    .products-explore .all-products .container .product-image {
-        height: 50%;
-    }
-
-    .products-explore .all-products .container .product-image img {
-        height: 50%;
+        height: 40rem;
     }
 }
