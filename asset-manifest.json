@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/berkat-suvenir/static/css/main.eda30f17.css",
-    "main.js": "/berkat-suvenir/static/js/main.b006fd0b.js",
+    "main.js": "/berkat-suvenir/static/js/main.74084c3f.js",
     "static/js/787.6d2ee1fe.chunk.js": "/berkat-suvenir/static/js/787.6d2ee1fe.chunk.js",
     "index.html": "/berkat-suvenir/index.html",
     "main.eda30f17.css.map": "/berkat-suvenir/static/css/main.eda30f17.css.map",
-    "main.b006fd0b.js.map": "/berkat-suvenir/static/js/main.b006fd0b.js.map",
+    "main.74084c3f.js.map": "/berkat-suvenir/static/js/main.74084c3f.js.map",
     "787.6d2ee1fe.chunk.js.map": "/berkat-suvenir/static/js/787.6d2ee1fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eda30f17.css",
-    "static/js/main.b006fd0b.js"
+    "static/js/main.74084c3f.js"
   ]
 }
